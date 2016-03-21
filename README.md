@@ -11,3 +11,5 @@ create new elements
 
 
 source : https://developers.google.com/web/fundamentals/design-and-ui/input/
+
+https://www.tjvantoll.com/2015/05/22/linting-javascript-in-nativescript-apps/
