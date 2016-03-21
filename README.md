@@ -7,3 +7,7 @@ create new elements
 2. for element
 3. placeholder 
 4. date time 
+
+
+
+source : https://developers.google.com/web/fundamentals/design-and-ui/input/
